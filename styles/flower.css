@@ -304,8 +304,8 @@ span {
     color: rgba(255, 255, 255, 0.90);
     text-align: center;
     font-size: 18px;
-    padding-left: 640px;
-    width: 625px;
+    /* padding-left: 640px; */
+    /* width: 625px; */
 }
 
 .footer-copyright {
