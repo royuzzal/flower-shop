@@ -283,9 +283,7 @@ span {
 
 /* footer section style */
 .footer-container {
-    width: 1922px;
-    height: 449px;
-    flex-shrink: 0;
+    padding-bottom: 60px;
     background-color: #111010;
     text-align: center;
 }
